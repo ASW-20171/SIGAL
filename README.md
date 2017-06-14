@@ -16,3 +16,4 @@ Pasos de instalacion:
 
 Cualquier consulta de modificacion o mejora del sistema puede comunicarse al correo frank223c@gmail.com
 
+![Screenshot](login.png)
