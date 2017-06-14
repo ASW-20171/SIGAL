@@ -5,7 +5,7 @@ Proyotecto basico para el curso de Arquitectuta del Software desarrollado por:
 - Ruben Choque Phocco
 - Jesus Yucra Arce
 
-El software se libera bajo licencia MIT, sindo libre de modificacion y distribucion con fines academicos para los estudiantes de la UPeU - Juliaca
+El software se libera bajo licencia MIT, siendo libre de modificacion y distribucion con fines académicos para los estudiantes de la UPeU - Juliaca
 
 Pasos de instalacion:
 
